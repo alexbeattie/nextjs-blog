@@ -14,8 +14,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>My name is Alex Beattie and I've been working on the web for many years.</p>
         <p>
-          This is a sample of a PWA website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.
+          This is a sample of a PWA website - I'll be updating this soon.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
